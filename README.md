@@ -43,25 +43,10 @@ Provides an overview of the road accident data using:
 - Interactive filters
 - Charts and visualizations
 
- 2. Accident & Casualty Analysis
-This page focuses on:
 
-- Total accidents
-- Total casualties
-- Accident severity
-- Casualty distribution
-- Comparison of accident-related factors
 
-. Time Analysis
-This page analyzes accident trends over time, including:
 
-- Monthly trends
-- Yearly trends
-- Accident patterns
-- Casualty trends
-- Time-based comparisons
-
- 4. Insights
+ 2. Insights
 The insights page highlights important findings from the data and helps understand major accident patterns.
 
 
